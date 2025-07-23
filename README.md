@@ -34,10 +34,12 @@ Sistem Informasi Manajemen berbasis web untuk mendukung digitalisasi pendidikan 
 
 ## 🧑‍💻 Developer
 
-**Nama:** Ibnu Syaebatul Risky  
-**Sekolah:** SMK Muhammadiyah 2 Ajibarang  
-**Website:** [ibnsyaebatul.my.id](https://ibnsyaebatul.my.id)  
-**Instagram:** [@simudaid](https://instagram.com/simudaid)
+**Nama Lengkap:** Ibnu Syaebatul Risky  
+**Asal Sekolah:** SMK Muhammadiyah 2 Ajibarang – Jurusan Rekayasa Perangkat Lunak (RPL)  
+**Website Portofolio:** [https://ibnsyaebatul.my.id](https://ibnsyaebatul.my.id)  
+**Website Aplikasi SIMUDA:** [https://simuda.my.id](https://simuda.my.id)  
+**Instagram (Official Project):** [@simudaid](https://instagram.com/simudaid)  
+**GitHub:** [@lbnSyaebatul](https://github.com/lbnSyaebatul)
 
 ---
 
